@@ -7,15 +7,15 @@ The analysis is visualized using an interactive Power BI dashboard designed to s
 
  **Objectives**
 
-Identify best-selling products
+- Identify best-selling products
 
-Analyze sales performance by region
+- Analyze sales performance by region
 
-Track monthly sales trends
+- Track monthly sales trends
 
-Understand customer segments and shipping modes
+- Understand customer segments and shipping modes
 
-Provide actionable business insights through visualization
+- Provide actionable business insights through visualization
 
 **Tools & Technologies**
 
@@ -47,43 +47,43 @@ Order and ship dates
 
 **Dashboard Features**
 
-KPI Cards
+- KPI Cards
 
-Total Sales
+- Total Sales
 
-Total Orders
+- Total Orders
 
-Total Quantity Sold
+- Total Quantity Sold
 
-Average Order Value
+- Average Order Value
 
-Best-Selling Products
+- Best-Selling Products
 
-Sales by Region
+- Sales by Region
 
-Sales by Shipping Mode
+- Sales by Shipping Mode
 
-Monthly Sales Trend
+- Monthly Sales Trend
 
-Interactive Filters
+- Interactive Filters
 
-Date range
+- Date range
 
-City
+- City
 
-Customer segment
+- Customer segment
 
 **Dashboard Preview**
 
  **Key Insights**
 
-The West region generated the highest revenue
+- The West region generated the highest revenue
 
-Standard Class shipping accounts for the majority of orders
+- Standard Class shipping accounts for the majority of orders
 
-Sales show a strong upward trend towards year-end
+- Sales show a strong upward trend towards year-end
 
-A small number of products contribute to a large portion of total sales
+- A small number of products contribute to a large portion of total sales
 
  **Skills Demonstrated**
 
@@ -103,7 +103,6 @@ Task: E-Commerce Sales Analysis Dashboard
 
 ## 🔗 Project Links
 - [Download Power BI Dashboard (.pbix)](https://drive.google.com/uc?export=download&id=13_OWi_mcjLN3hdaLYcPooqvZd5BYrSuN)
-- [Dashboard Preview](images/dashboard_preview.png)
 
 ## Status
 Completed
