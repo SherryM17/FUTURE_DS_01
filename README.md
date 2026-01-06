@@ -1,4 +1,5 @@
-E-Commerce Sales Analysis Dashboard (Power BI)
+**E-Commerce Sales Analysis Dashboard (Power BI)**
+
  **Project Overview**
 
 This project analyzes e-commerce sales data to identify key business insights such as best-selling products, sales trends, regional performance, and shipping behavior.
@@ -16,7 +17,7 @@ Understand customer segments and shipping modes
 
 Provide actionable business insights through visualization
 
-** Tools & Technologies**
+**Tools & Technologies**
 
 Power BI
 
@@ -44,7 +45,7 @@ Shipping mode
 
 Order and ship dates
 
-** Dashboard Features**
+**Dashboard Features**
 
 KPI Cards
 
@@ -72,7 +73,7 @@ City
 
 Customer segment
 
-** Dashboard Preview**
+**Dashboard Preview**
 
  **Key Insights**
 
