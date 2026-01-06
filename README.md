@@ -1,48 +1,108 @@
-# FUTURE_DS_01 – Business Sales Dashboard
+E-Commerce Sales Analysis Dashboard (Power BI)
+ **Project Overview**
 
-## Internship Track
-Data Science & Analytics – Future Interns
+This project analyzes e-commerce sales data to identify key business insights such as best-selling products, sales trends, regional performance, and shipping behavior.
+The analysis is visualized using an interactive Power BI dashboard designed to support data-driven decision-making.
 
-## Project Title
-Business Sales Dashboard from E-Commerce Data
+ **Objectives**
 
-## Objective
-To analyze e-commerce sales data and build an interactive Power BI dashboard
-that provides insights into sales performance, revenue trends, and top-performing products.
+Identify best-selling products
 
-## Dataset Overview
-The dataset contains e-commerce transaction data including:
-- Order dates
-- Product categories
-- Sales revenue
-- Quantity sold
-- Customer and regional information
+Analyze sales performance by region
 
-## Tools & Technologies
-- Power BI
-- Excel (Data Cleaning)
-- DAX (Measures & Calculations)
+Track monthly sales trends
 
-## Key Analysis Performed
-- Identification of best-selling products
-- Sales and revenue trends over time
-- High-revenue categories
-- Performance comparison across regions
+Understand customer segments and shipping modes
 
-## Dashboard Features
-- KPI cards for total sales, revenue, and quantity
-- Time-based sales trend analysis
-- Category and product-level breakdown
-- Interactive filters and slicers
+Provide actionable business insights through visualization
 
-## Deliverables
-- Power BI dashboard (.pbix)
-- Dataset used for analysis
-- Dashboard screenshots
+** Tools & Technologies**
 
-## Outcome
-The dashboard enables stakeholders to make data-driven business decisions
-by quickly identifying revenue drivers and sales patterns.
+Power BI
+
+DAX
+
+Microsoft Excel / CSV
+
+GitHub
+
+**Dataset**
+
+The dataset contains historical e-commerce sales records, including:
+
+Order details
+
+Product information
+
+Sales & quantity
+
+Region & city
+
+Customer segment
+
+Shipping mode
+
+Order and ship dates
+
+** Dashboard Features**
+
+KPI Cards
+
+Total Sales
+
+Total Orders
+
+Total Quantity Sold
+
+Average Order Value
+
+Best-Selling Products
+
+Sales by Region
+
+Sales by Shipping Mode
+
+Monthly Sales Trend
+
+Interactive Filters
+
+Date range
+
+City
+
+Customer segment
+
+** Dashboard Preview**
+
+ **Key Insights**
+
+The West region generated the highest revenue
+
+Standard Class shipping accounts for the majority of orders
+
+Sales show a strong upward trend towards year-end
+
+A small number of products contribute to a large portion of total sales
+
+ **Skills Demonstrated**
+
+Data cleaning & transformation
+
+DAX calculations
+
+Dashboard design & storytelling
+
+Business insights extraction
+
+ **Internship Task**
+
+Track: Data Analytics
+Program: Future Interns
+Task: E-Commerce Sales Analysis Dashboard
+
+## 🔗 Project Links
+- [Download Power BI Dashboard (.pbix)](https://drive.google.com/uc?export=download&id=13_OWi_mcjLN3hdaLYcPooqvZd5BYrSuN)
+- [Dashboard Preview](images/dashboard_preview.png)
 
 ## Status
 Completed
